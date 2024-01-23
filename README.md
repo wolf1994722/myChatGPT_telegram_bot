@@ -63,8 +63,3 @@ Now you can use the bot as long as the script is running. Just type Hello! and m
 I encourage anyone with knowledge on the topic to help me in any way considered appropiate. If any bug, failure or error is detected, feel free to communicate or try to solve it. Here is a list of features I believe that should be worked on in order to improve the repository, but suggestions are as well accepted:
 - Make the script run forever
 - Enable through chat command to modify the engine used for the response
-
-## Credits
-- Creator [@juan-miii](https://github.com/juan-miii) (GitHub), [@juanmiiix](https://twitter.com/juanmiiix) on Twitter
-- Contributor [@han3on](https://github.com/han3on) (GitHub)
-- Based on [@browneye1826](https://gist.github.com/browneye1826)'s Gists on a [_Telegram bot to communicate with Codex by OpenAI_](https://gist.github.com/browneye1826/4890211188170a43087dfc586afc962b#file-codex_bot-py)
