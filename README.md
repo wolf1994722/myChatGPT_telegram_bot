@@ -1,11 +1,11 @@
-# GPT Telegram Bot
+# Bard & GPT Telegram Bot
 Script for a Telegram bot that uses [OpenAI API](https://beta.openai.com/overview) similar to ChatGPT. It has all its capabilities plus the fact that by using the API directly, there is no waiting time prior to using this bot. The current downside to this project is that the script has to be running for the bot to work. _Anyone willing to contribute to this project in anyway, particularly by making it work forever, please visit the [Contribution](#contribution) section._
 
 ## Features
-- [ ] Use OpenAI API through Telegram
+- [ ] Use OpenAI API and Bard through Telegram
 - [ ] Get text replies by default
 - [ ] Get code responses by starting your messages with `>>>`
-- [ ] Get code related answers by using the word `code` in your meessage
+- [ ] Get online searched result related answers by using the word `bard` in your meessage
 - [ ] Make your bot private for personal use
 
 ## How to install
@@ -16,6 +16,8 @@ Get Python installed in the most recent version together with the following pack
 pip install openai
 pip install pyTelegramBotAPI
 pip install python-dotenv
+pip install bardapi
+pip install browser-cookie3
 ```
 
 ### 2. Install Telegram
